@@ -14,8 +14,8 @@ body {
 }
 
 .wrapper{
-    margin-top: 30%;
-    margin-left: 130%;
+    margin-right: auto;
+    margin-left: auto;
     width: 420px;
     color: white;
     background: transparent;

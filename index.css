@@ -24,6 +24,7 @@ body {
     box-shadow: 0 0 10px grey;
     border-radius: 10px;
     padding: 40px 50px;
+    align-items: center;
 }
 
 .wrapper h1 {
